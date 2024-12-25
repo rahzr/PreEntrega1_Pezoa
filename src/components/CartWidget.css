@@ -1,0 +1,29 @@
+/* CartWidget.css */
+.btn-carrito {
+   position: relative;
+   border-radius: 3rem;
+   font-weight: 700;
+}
+ 
+.carrito {
+   width: 1.3rem;
+   height: 1.3rem;
+   margin-left: 0.3rem;
+}
+ 
+.globo {
+   position: absolute;
+   top: -8px;
+   right: -8px;
+   background-color: red;
+   color: white;
+   border-radius: 30px;
+   font-size: 0.75rem;
+   font-weight: 600;
+   width: 1.3rem;
+   height: 1.3rem;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+ 
